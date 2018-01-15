@@ -1,6 +1,8 @@
 # py-udp-autobox
 Python and Simulink files to send messages **through ethernet(UDP)** from `linux` to `MicroAutobox`
 
+![20180115_134605](./assets/20180115_134605.gif)
+
 
 
 ## Dependencies
